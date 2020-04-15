@@ -60,3 +60,12 @@
 .ex-7-img:hover {
     filter: brightness(.6) grayscale(.8);
 }
+
+.ex-8-img {
+    transition: 3s;
+}
+
+.ex-8-img:hover {
+    filter: brightness(.6) grayscale(.8);
+    border-radius: 5%;
+}
