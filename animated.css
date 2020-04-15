@@ -69,3 +69,13 @@
     filter: brightness(.6) grayscale(.8);
     border-radius: 5%;
 }
+
+.ex-9-img {
+    transition: 3s;
+}
+
+.ex-9-img:hover {
+    filter: brightness(.6) grayscale(.8);
+    border-radius: 5%;
+    transform: scale(1.5);
+}
